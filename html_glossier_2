@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0 user-scalable=no;">
+    <style type="text/css">
+      @media screen and (max-width: 630px) {
+        
+      }
+      body {
+        background-color: white;
+        font-family: sans-serif, arial;
+      }
+    </style>
+  </head>
+  <body>
+    <!--MAIN CONTAINER-->
+    <table cellspacing="0" cellpadding="0" border="1" align="center" width="100%">
+      <tr>
+        <td>
+          <table cellspacing="0" cellpadding="0" border="0" align="center" width="100%">
+      <tr>
+        <td style="text-align: center; padding: 15px; font-size: 12px; color: gray;">
+          just add fingertips
+        </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="" target="_blank">
+                <img src="https://d3k81ch9hvuctc.cloudfront.net/company/bLgCLG/images/21d3ac1c-1b52-4f63-9314-8bd6978d1b66.jpeg" alt="Glossier logo" style="display: block; margin-right: auto; margin-left: auto; padding: 15px;" width="4%">
+                </a>
+              </td>
+            </tr>
+            <tr>
+              <td style="text-align: center;">
+                <h1>
+                <a href="" target="_blank">
+                Skin first. Makeup second.
+                </a>
+                </h1>
+              </td>
+            </tr>
+            <tr>
+              <td style="padding: 20px;">
+                <a href="https://www.glossier.com/category/skincare?utm_campaign=Introducing+Product+%28nEBcSC%29&utm_medium=email&_ke=bWF0dEByZWFsbHlnb29kZW1haWxzLmNvbQ%3D%3D&utm_source=New+subscriber+not+purchased+3" target="_blank">
+                <img src="https://d3k81ch9hvuctc.cloudfront.net/company/bLgCLG/images/65821ef9-5bbd-4408-9a00-7caa05536223.jpeg" width="100%">
+                </a>
+              </td>
+            </tr>
+            <tr>
+              <td style="text-align: center; padding: 25px; font-size: 18px;">
+                 Start with a perfectly primed canvas. Our skincare products work 
+                together to optimize skin’s tone, texture, and hydration levels 
+                immediately upon application.
+              </td>
+            </tr>
+            <tr>
+              <td align="center" style="padding: 20px;">
+                <a href="https://www.glossier.com/category/skincare?utm_campaign=Introducing+Product+%28nEBcSC%29&utm_medium=email&_ke=bWF0dEByZWFsbHlnb29kZW1haWxzLmNvbQ%3D%3D&utm_source=New+subscriber+not+purchased+3" target="_blank">
+                <input type="button" value="SHOP SKINCARE" style="color: white; background-color: #00F; border-color: #00F; padding: 20px; width: 40%;">
+                </a>
+              </td>
+            </tr>
+            <tr>
+              <td style="padding: 20px;">
+                <img src="https://d3k81ch9hvuctc.cloudfront.net/company/bLgCLG/images/5f8dea54-b558-49d6-93cf-ed5ef0efcbed.jpeg" width="100%" >
+              </td>
+            </tr>
+            <tr>
+              <td style="text-align: center; padding: 25px; font-size: 18px;">
+                After skin is prepped, enhance with makeup. Think groomed brows, 
+                flushed lips, and even, dewy skin for our signature pared-down, skin-
+                first look.
+              </td>
+            </tr>
+            <tr>
+              <td align="center" style="padding: 20px;">
+                <input type="button" value="SHOP MAKEUP" style="color: white; background-color: #00F; border-color: #00F; padding: 20px; width: 40%">
+              </td>
+            </tr>
+            <tr>
+              <td style="padding: 15px;">
+                <img src="https://d3k81ch9hvuctc.cloudfront.net/company/bLgCLG/images/df4793c3-454e-4931-8b3a-6899c9846a8e.jpeg" width="10%" style="display: block; margin-right: auto; margin-left: auto;">
+                     </td>
+            </tr>
+            <tr>
+              <td align="center" style="color: gray; padding: 25px; font-size: 10px;">
+                
+                No longer want to receive these emails? <a href="" target="_blank" style="color: #00F">You can unsubscribe here.</a> <br>
+Glossier 123 Lafayette St. Floor 3 New York, NY 10013
+              </td>
+            </tr>
+          </table>
+          
+          
+          
+      <!--END OF MAIN CONTAINER-->
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>
